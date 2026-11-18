@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "sustained_CH4 - code for global warming-matched offsetting of sustained methane emissions"
+message: "If you use this code, please cite the accompanying paper and this repository."
+authors:
+  - family-names: Schmidt
+    given-names: Hans-Peter
+    affiliation: Ithaka Institute for Carbon Strategies
+  - family-names: Hagemann
+    given-names: Nikolas
+    affiliation: Ithaka Institute for Carbon Strategies / Agroscope
+license: MIT
+repository-code: "https://github.com/ithaka-hp/sustained_CH4"
+keywords:
+  - methane
+  - carbon dioxide removal
+  - sustained emissions
+  - impulse response function
+  - annual climate effect
+  - global warming-matched offsetting
+  - GWP
